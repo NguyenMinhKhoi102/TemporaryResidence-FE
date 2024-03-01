@@ -1,0 +1,2 @@
+import { createPrimed } from 'primevue';
+

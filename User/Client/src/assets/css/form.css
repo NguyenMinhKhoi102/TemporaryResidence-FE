@@ -1,0 +1,13 @@
+.error-feedback,
+.not-null {
+    color: red;
+}
+
+.not-null {
+    font-weight: bold;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
